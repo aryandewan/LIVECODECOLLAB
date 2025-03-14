@@ -48,7 +48,7 @@ const Whiteboard = () => {
         <FaHome
           size={50}
           className="cursor-pointer"
-          onClick={() => (window.location.href = "/")}
+          onClick={() => (window.location.href = "/LIVECODECOLLAB")}
         />
       </div>
     </div>

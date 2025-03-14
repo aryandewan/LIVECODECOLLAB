@@ -197,7 +197,7 @@ const CodeEditor = ({ containerClass }) => {
           <HoverCard>
             <HoverCardTrigger>
               <button
-                onClick={() => (window.location.href = "/")}
+                onClick={() => (window.location.href = "/LIVECODECOLLAB")}
                 className="text-white px-4 py-2 border-2 border-white rounded-r-lg cursor-pointer"
               >
                 <FaHome size={30} />
